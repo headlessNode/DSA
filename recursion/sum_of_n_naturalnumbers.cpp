@@ -1,6 +1,7 @@
 /*
 Following program prints the sum of
-"n" consective natural numbers
+"n" consective natural numbers using
+recursion
 */
 
 #include<iostream>
