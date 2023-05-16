@@ -1,5 +1,5 @@
 #include<iostream>
-
+#include<stdlib.h>
 /*
 A factorial is a function that multiplies a number by every number below it till 1. 
 For example, the factorial of 3 represents the multiplication of numbers 
@@ -20,9 +20,13 @@ int fact(int n) {
 	if (n == 0){
 		return 1;
 	}
+	elseif(n<0){
+		abort();
+	}
 	else {
 		return fact(n - 1) * n;
 	}
+	
 }
 
 int fact1(int n)
