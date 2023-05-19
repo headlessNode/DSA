@@ -1,5 +1,10 @@
 #include<iostream>
 
+/*
+This code snippet utilizaes tree recursion to calculate
+fibonacci number upto n terms. Time complexity O(2^n)
+*/
+
 int fib(int n);
 
 int main() {
