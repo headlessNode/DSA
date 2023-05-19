@@ -1,6 +1,11 @@
 #include<iostream>
 #include<vector>
 
+/*
+This code snippet utilizes memoization to reduce the time complexity
+of calculating fibonacci upto n terms. Time complexity O(n).
+*/
+
 int fib(int n);
 
 int main() {
