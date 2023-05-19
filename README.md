@@ -1,5 +1,7 @@
 # Learning Data Structures and Algorithms in C++
 
+![Logo](path/to/logo.png)
+
 This repository contains a collection of code snippets that reflect my journey of learning data structures and algorithms in C++. Each folder represents a different topic and includes code examples and explanations to help others understand and learn from my progress.
 
 ## Table of Contents
@@ -44,7 +46,7 @@ Please ensure that your code adheres to the existing style and follows best prac
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for personal and commercial purposes. However, I assume no responsibility for any consequences resulting from the use of this code.
+This project is licensed under the [GNU General Public License](LICENSE-GPL.md). You are free to use, modify, and distribute this code for personal and commercial purposes under the terms of the GPL. However, I assume no responsibility for any consequences resulting from the use of this code.
 
 If you find this repository helpful or have any suggestions for improvement, feel free to create an issue or contact me directly.
 
