@@ -1,6 +1,6 @@
 # Learning Data Structures and Algorithms in C++
 
-![Logo](path/to/logo.png)
+
 
 This repository contains a collection of code snippets that reflect my journey of learning data structures and algorithms in C++. Each folder represents a different topic and includes code examples and explanations to help others understand and learn from my progress.
 
