@@ -14,7 +14,7 @@ This algorithm calculates the factorial of a given number using recursion. It de
 
 - Files: `fibonacci_recursion.cpp` and `fibonacci_memoization.cpp`
 
-These algorithms compute the Fibonacci sequence using recursion. The `fibonacci_recursive.cpp` file uses a straightforward recursive approach, while the `fibonacci_memoization.cpp` file employs memoization to improve efficiency by storing previously calculated results.
+These algorithms compute the Fibonacci sequence using recursion. The `fibonacci_recursion.cpp` file uses a straightforward recursive approach, while the `fibonacci_memoization.cpp` file employs memoization to improve efficiency by storing previously calculated results.
 
 ### 3. Head Recursion and Tail Recursion
 
