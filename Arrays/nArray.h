@@ -52,6 +52,7 @@ public:
 	}
 
 	void insert(T n, int index) {
+		
 		if (index <= length) {
 			for (int i = length; i > index; i--) {
 				*(p + i) = *(p + (i - 1));
@@ -59,13 +60,19 @@ public:
 			*(p + index) = n;
 			length++;
 		}
+		else if(index > length) {
+			std::cout<<"Invalid Index."<<"\n";
+		}
 	}
 
 	void del(int index) {
-		for (int i = index; i <= length-1; i++) {
-			*(p + i) = *(p + i + 1);
+		if(index < size) 
+		{
+			for (int i = index; i <= length-1; i++) {
+				*(p + i) = *(p + i + 1);
+			}
+			length--;
 		}
-		length--;
 	}
 
 	void linear_search(T n) {
