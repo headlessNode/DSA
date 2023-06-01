@@ -13,6 +13,7 @@ This repository contains a collection of code snippets that reflect my journey o
 
 ## Data Structures
 
+- Arrays
 - LinkedList
 - Binary Tree
 - Stack
