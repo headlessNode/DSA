@@ -1,13 +1,6 @@
 #include<iostream>
 #include"nArray.h"
 
-/*
-	some conditions need to be added to avoid std out of range error.
-	In insert and del function.
-
-*/
-
-
 int main() {
 
 	nArray<int> a;
