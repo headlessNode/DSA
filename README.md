@@ -32,18 +32,6 @@ Each data structure folder contains implementation files written in C++ and incl
 
 Similarly, each algorithm folder includes C++ implementation files and a README with explanations and example code.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this repository, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes with descriptive commit messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request, explaining the changes you've made.
-
-Please ensure that your code adheres to the existing style and follows best practices. Additionally, consider adding tests or providing usage examples whenever possible.
-
 ## License
 
 This project is licensed under the [GNU General Public License](LICENSE-GPL.md). You are free to use, modify, and distribute this code for personal and commercial purposes under the terms of the GPL. However, I assume no responsibility for any consequences resulting from the use of this code.
