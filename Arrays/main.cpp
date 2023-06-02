@@ -91,6 +91,7 @@ int main() {
 		}
 
 		else if (choice == 0) {
+			std::cout<<"Goodbye."<<"\n";
 			break;
 		}
 	} while (choice != 0);
